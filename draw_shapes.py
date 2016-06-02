@@ -7,7 +7,6 @@ window.bgcolor("black")
 
 def draw_square(artist_turtle, side_length):
     artist_turtle.speed(20)
-    # tell jeff where to to
     deg0 = 0
     while deg0 <360:
         deg1 = 0
