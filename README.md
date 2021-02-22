@@ -1,5 +1,5 @@
-# IPND_Python_Programs
-small python programs created during Udacity Introduction to Programming Nano Degree.
+# MISC_Python_Programs
+Small python scripted programs created during Udacity Introduction to Programming Course.
 
 art_project.py : Draws the nth generation of the Dragon Curve L-System.
 draw_shapes.py : Draws various shapes using the python turtle package.
